@@ -6,4 +6,4 @@ I wanted to create it in React Native. Finally did it.
 
 # Screenshot:
 
-![](./assets/screen.gif)
+![](assets/screen.gif)
