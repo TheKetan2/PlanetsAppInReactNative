@@ -6,7 +6,7 @@ I wanted to create it in React Native. Finally did it.
 
 # Working Expo Snack:
 
-[Expo Snack](https://snack.expo.io/@xeteke8423/planetsappreactnative)
+[Expo Snack](https://snack.expo.io/@therketan/planetsappreactnative)
 
 # Screenshot:
 
